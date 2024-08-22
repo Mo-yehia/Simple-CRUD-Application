@@ -15,7 +15,7 @@ H2 Database
 
 # Database
 H2 Console: Access the H2 database console at http://localhost:9090/h2-console   
-JDBC URL: jdbc:h2:mem:testdb  
+JDBC URL: jdbc:h2:mem:testes  
 Username: admin  
 Password: (leave it blank)  
 
